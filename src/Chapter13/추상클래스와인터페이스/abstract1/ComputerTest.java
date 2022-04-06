@@ -7,7 +7,13 @@ public class ComputerTest {
 		computer.display();
 		computer.turnOn();
 		
+		
 		NoteBook noteBook = new MyNoteBook();
+		noteBook.display();
+		noteBook.turnOn();
+		noteBook.typing();
+		noteBook.turnOff();
+		
 
 	}
 
