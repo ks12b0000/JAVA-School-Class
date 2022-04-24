@@ -19,7 +19,7 @@ public class MyPhoneBookTest {
 	
 	
 	public static void main(String[] args) {
-		readInfo();
+		//readInfo();
 		
 		int choice;
 		while(true) {
